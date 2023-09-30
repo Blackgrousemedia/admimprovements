@@ -489,8 +489,7 @@
 .brix---container-default-2 {
   max-width: 1218px;
   background-color: #67c289;
-  padding-left: 24px;
-  padding-right: 24px;
+  padding: 28px 24px 43px;
 }
 
 .brix---section-hero-full-width-right {
@@ -1217,7 +1216,7 @@
 }
 
 .brix---footer-wrapper-2 {
-  background-color: #fff;
+  background-color: #67c289;
   border-top: 1px solid #eff0f6;
 }
 
