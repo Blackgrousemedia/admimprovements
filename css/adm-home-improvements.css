@@ -1407,7 +1407,7 @@
   padding-right: 2rem;
 }
 
-.text-block {
+.text-block, .heading-2 {
   color: #fff;
 }
 
@@ -1754,6 +1754,10 @@
   .uui-padding-vertical-xlarge {
     padding-top: 3.5rem;
     padding-bottom: 3.5rem;
+  }
+
+  .html-embed {
+    padding: 0 23px;
   }
 }
 
