@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://admimprovements.co.uk/sitemap.xml
